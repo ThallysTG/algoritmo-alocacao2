@@ -21,6 +21,7 @@ public class Main {
 		int qntParticoes = sc.nextInt();
 
 		int tamProcessos[] = new int[qntProcessos];
+		
 		ParticaoMemoria particaoMemoria[] = new ParticaoMemoria[qntParticoes];
 
 		System.out.println("Selecione qual partição deseja usar");
